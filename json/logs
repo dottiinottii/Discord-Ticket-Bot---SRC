@@ -1,0 +1,20 @@
+{
+  "160937844515274752": [
+    {
+      "ticket_owner": "160937844515274752",
+      "closed_ticket": "160937844515274752",
+      "assumed": "160937844515274752",
+      "reason": "Test",
+      "code": "477854"
+    }
+  ],
+  "1153759429024559256": [
+    {
+      "ticket_owner": "160937844515274752",
+      "closed_ticket": "160937844515274752",
+      "assumed": "No one took over",
+      "reason": "Example Reason",
+      "code": "BF57CD"
+    }
+  ]
+}
