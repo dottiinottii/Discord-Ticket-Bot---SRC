@@ -1,0 +1,12 @@
+{
+    "main_config": {
+        "staff_role": "",
+        "log_channel": "",
+        "evaluation_channel": "",
+        "ticket_category": ""
+    },
+    "internal_config": {
+        "thumbnail": "",
+        "text": "👥 **| User:** {user} \n\n💻 **| Ticket Reason:** {reason}  \n\n 🔐** | Ticket Code: {code} ** \n\n🔰 **| Information:** __*Welcome to your Ticket! Wait until a **STAFF** member assists you. Avoid tagging multiple times to prevent penalties!*__ \n\n 🧰 **| Ticket Assumed: **{assumed}"
+    }
+}
